@@ -1,0 +1,21 @@
+source:      .
+destination: ./_stage
+plugins:     nil
+layouts:     ./_layouts
+include:     ['.htaccess']
+exclude:     []
+keep_files:  ['.git','.svn']
+gems:        []
+timezone:    nil
+encoding:    nil
+
+future:      true
+show_drafts: nil
+limit_posts: 0
+highlighter: pygments
+
+relative_permalinks: true
+
+permalink:     date
+paginate_path: 'page:num'
+paginate:      nil
