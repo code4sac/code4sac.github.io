@@ -1,25 +1,14 @@
-source:      .
-destination: ./_stage
-plugins:     ./_plugins
-layouts:     ./_layouts
-include:     ['.htaccess']
-exclude:     []
-keep_files:  ['.git','.svn']
-gems:        []
-timezone:    
-encoding:    
+name: Code4Sac
+description: We play with code
+author: The Code4Sac Team
+email:
 
-future:      true
-show_drafts: 
-limit_posts: 0
-highlighter: pygments
+baseurl: /
+url:
+permalink: pretty
+timezone: "Pacific Time (US & Canada)"
+encoding: utf-8
 
-relative_permalinks: true
-
-permalink:     date
-paginate_path: 'page:num'
-paginate:      1
-
-markdown:      kramdown
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
-textile_ext:   textile
+markdown: kramdown
+kramdown:
+  input: GFM
