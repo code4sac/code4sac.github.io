@@ -1,0 +1,9 @@
+- name: Sacramento Hashtag Project
+  description: Sacramento Hashtag Project
+  github: code4sac/sac-hash
+  url: http://sachashtagproject.com
+
+- name: iCarol
+  description: iCarol
+  github:
+  url:
