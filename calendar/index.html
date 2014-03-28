@@ -1,56 +1,7 @@
 ---
-layout: default
+layout: calendar
 title: Calendar
 ---
 
-<link href='css/fullcalendar.css' rel='stylesheet' />
-<link href='css/fullcalendar.print.css' rel='stylesheet' media='print' />
-<style>
-  body {
-    margin-top: 40px;
-    text-align: center;
-    font-size: 14px;
-    font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
-  }
-
-  #calendar {
-    width: 900px;
-    margin: 0 auto;
-  }
-</style>
-
-<h2>I am the future calendar page!</h2>
-
-<script src='js/jquery-ui.custom.min.js'></script>
-<script src='js/fullcalendar.min.js'></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/respond.js"></script>
-<script>
-  $(document).ready(function() {
-
-    $('#calendar').fullCalendar({
-
-      // C4S
-      events:
-      'http://www.google.com/calendar/feeds/hello%40codeforsacramento.org/public/full?alt=json-in-script',
-
-
-
-      eventClick: function(event) {
-        // opens events in a popup window
-        window.open(event.url, 'gcalevent', 'width=700,height=600');
-        return false;
-      },
-
-      loading: function(bool) {
-        if (bool) {
-          $('#loading').show();
-        }else{
-          $('#loading').hide();
-        }
-      }
-
-    });
-
-  });
-</script>
+<div id='loading' style='display:none'>loading...</div>
+<div id='calendar'></div>

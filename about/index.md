@@ -11,7 +11,7 @@ that these words cross over the bridge
 
 We are a [Code for America Brigade](http://www.codeforamerica.org) -- local
 volunteers who study community problems, build civic apps and make government
-open for everyone.
+more open for everyone.
 
 ## Meet Our Brigade
 
