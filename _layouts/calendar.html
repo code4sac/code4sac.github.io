@@ -22,70 +22,13 @@ layout: calendar
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
-    <!-- FullCalendar -->
-    <link href='/assets/css/fullcalendar.css' rel='stylesheet' />
-    <link href='/assets/css/fullcalendar.print.css' rel='stylesheet' media='print' />
-    <script src='/assets/js/jquery.min.js'></script>
-    <script src='/assets/js/jquery-ui.custom.min.js'></script>
-    <script src='/assets/js/fullcalendar.min.js'></script>
-    <script src='/assets/js/gcal.js'></script>
-    <script>
-      $(document).ready(function() {
-    
-        $('#calendar').fullCalendar({
-        
-          // US Holidays
-          events: 'http://www.google.com/calendar/feeds/usa__en%40holiday.calendar.google.com/public/basic',
-          
-          eventClick: function(event) {
-            // opens events in a popup window
-            window.open(event.url, 'gcalevent', 'width=700,height=600');
-            return false;
-          },
-          
-          loading: function(bool) {
-            if (bool) {
-              $('#loading').show();
-            }else{
-              $('#loading').hide();
-            }
-          }
-          
-        });
-        
-      });
-
-    </script>
-    <style>
-
-      body {
-        margin-top: 40px;
-        text-align: center;
-        font-size: 14px;
-        font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
-        }
-      
-      #loading {
-        position: absolute;
-        top: 5px;
-        right: 5px;
-        } 
-
-      #calendar {
-        width: 900px;
-        margin: 0 auto;
-        }
-
-    </style>
-
   </head>
   <body>
     {% include header.html %}
     <div class="container">
-      {% if page.title %}
+<!--       {% if page.title %}
         <h1>{{page.title}}</h1>
-      {% endif %}
+      {% endif %} -->
       {{content}}
     </div>
     {% include footer.html %}
