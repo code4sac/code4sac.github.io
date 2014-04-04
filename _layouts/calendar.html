@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: calendar
 ---
 
 <!DOCTYPE html>
@@ -25,11 +25,10 @@ layout: default
   </head>
   <body>
     {% include header.html %}
-    <div class="container-fluid">
-      {% if page.title %}
+    <div class="container">
+<!--       {% if page.title %}
         <h1>{{page.title}}</h1>
-      {% endif %}
-
+      {% endif %} -->
       {{content}}
     </div>
     {% include footer.html %}
