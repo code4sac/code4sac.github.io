@@ -1,0 +1,21 @@
+
+<div class="section-nav">
+  <div>
+    {% if page.prev_section != null %}
+      <a href="/projects/{{ page.prev_section }}/">
+        <button type="button" class="btn btn-default">Previous Project</button>
+      </a>
+    {% else %}
+    {% endif %}
+  </div>
+  <div>
+    {% if page.next_section != null %}
+      <a href="/projects/{{ page.next_section }}/">
+        <button type="button" class="btn btn-default">Next Project</button>
+      </a>
+    {% else %}
+    {% endif %}
+  </div>
+  <div class="clear"></div>
+</div>
+

@@ -3,16 +3,18 @@ layout: default
 title: Our Projects
 ---
 
-<h2>I am z future projects page!</h2>
+<div class="jumbotron">
+  <h2>How we work</h2>
+</div>
 
-{% for project in site.data.current_projects %}
+{% for project in site.data.projects %}
   <article>
     <header>
       <h3>
         {% if project.url %}
-          <a href="{{ project.url }}">{{ project.name }}</a>
+          <a href="{{ project.cause}}">{{ project.name }}</a>
         {% else %}
-          {{ project.name }}
+         <!--  {{ project.name }} -->
         {% endif %}
       </h3>
       {% if project.url %}

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-9">
+      {{ page.banner }}
+      <h2>
+        {{ page.name }} <br>
+        <small>{{ page.elevator_pitch }}</small>
+      </h2>
+      <table class="table">
+        <tr>
+          <th>Status:</th>
+          <th>Next milestone:</th>
+          <th>Gov partners:</th>
+          <th>Community partners:</th>
+        </tr>
+        <tr>
+          <td>{{ page.status }}</td>
+          <td>{{ page.next_milestone }}</td>
+          <td>{{ page.gov_partners }}</td>
+          <td>{{ page.community_partners }}</td>
+        </tr>
+        </table>
+        {{ content }}
+        <h3>Current project needs: </h3>
+          <p>{{ page.current_needs }}</p>
+        <h3>Get involved</h3>
+          <p>View the code: {{ page.github }}</p>
+          <p>Read the discussions: {{ page.google_group }}</p>
+          <p>The C4S lead on this project is {{ page.c4s_contact }}. Send {{ page.specify_him_or_her }} an <a href="mailto:{{ project.contact_email }}">email.</a></p>
+          <h6 style="padding-top: 20px;">This page was last updated on {{ page.last_updated }}</h6>
+        {% include section_nav.html %}
+      </div>
+    <div class="col-md-3 hidden-xs hidden-sm">
+      {% include project_nav.html %}
+    </div>
+  </div>
+</div>

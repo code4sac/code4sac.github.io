@@ -18,7 +18,11 @@ aside,
 details,
 figcaption,
 figure,
-footer,
+footer {
+  padding-top: 30px;
+  background-color: #f8f8f8;
+  font-size: 90%;
+}
 header,
 hgroup,
 main,
