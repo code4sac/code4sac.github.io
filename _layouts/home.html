@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 <!DOCTYPE html>
@@ -9,7 +9,7 @@ layout: default
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
-      Code4Sac
+      Code4Sac -- {% if page.title %}{{page.title}}
     </title>
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,700,300,800' rel='stylesheet' type='text/css'>
@@ -17,7 +17,7 @@ layout: default
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
     <link href="/assets/css/custom.css" rel="stylesheet">
   </head>
-  <body>
+  <body id="home">
     {% include header.html %}
     <div class="container-fluid">
 
