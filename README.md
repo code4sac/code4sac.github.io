@@ -1,9 +1,9 @@
 _This is the sandbox for a new, centralized Code4Sac website_
 This site needs content, styling, and more! More details on how to help are coming soon.
 
-### Everyone can help pitch in and get our new website ready!
+### Everyone can pitch in to help get our new website ready!
 
-For a list of things we need help on, please check out the (issues page)[https://github.com/code4sac/code4sac.github.io/issues?state=open].
+For a list of things we need help on, please check out the [issues page](https://github.com/code4sac/code4sac.github.io/issues?state=open).
 
 
 #For Developers:
