@@ -1,19 +1,10 @@
 _This is the sandbox for a new, centralized Code4Sac website_
 This site needs content, styling, and more! More details on how to help are coming soon.
 
-**Current priority:** This website needs to help people get involved in Code4Sac projects. 
+### Everyone can help pitch in and get our new website ready!
 
-###How to contribute an idea or update for a Code4Sac project:
+For a list of things we need help on, please check out the (issues page)[https://github.com/code4sac/code4sac.github.io/issues?state=open].
 
-All projects and project ideas, regardless of who or what's involved, need a page on the new Code4Sac website! 
-
-1. Try adding your idea/project to this google doc here: [https://docs.google.com/document/d/1P74Fi6_Rr-3fUOigscbcd4z9_K9yS3BRTazr4FfETeg/edit#] and feel free to copy/paste until we get a better tool!
-
-2. If you have an idea for a new cause we could support, add it to the google doc!
-
-3. If you have an idea for a new project, add it to the google doc! 
-
-4. Coders will add the projects and causes to the new C4S website.
 
 #For Developers:
 
