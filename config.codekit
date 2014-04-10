@@ -110,18 +110,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/2014-03-19-sample_post.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2014-03-19-sample_post.md",
-		"outputAbbreviatedPath": "\/_posts\/2014-03-19-sample_post.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/about\/contact_us\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -167,18 +155,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/CONTRIBUTING.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/CONTRIBUTING.md",
-		"outputAbbreviatedPath": "\/_site\/CONTRIBUTING.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -215,29 +191,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/projects\/food-pantry-map.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/food-pantry-map.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/projects\/food-pantry-map\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/projects\/food-pantry-map\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/hashtag-project.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/hashtag-project.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -265,15 +223,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/projects\/portal-utilities\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/project01.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/project01.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -314,15 +263,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/projects\/team-wakati.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/team-wakati.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/projects\/team-wakati\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -338,18 +278,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/projects\/writeups\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/README.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/README.md",
-		"outputAbbreviatedPath": "\/_site\/README.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -371,27 +299,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/about\/faq.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
+	"\/assets\/components\/css\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/about\/faq.md",
-		"outputAbbreviatedPath": "\/about\/faq.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/about\/index.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/about\/index.md",
-		"outputAbbreviatedPath": "\/about\/index.html",
+		"inputAbbreviatedPath": "\/assets\/components\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1480,18 +1393,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/CONTRIBUTING.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/CONTRIBUTING.md",
-		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1501,204 +1402,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/projects\/charging-stations.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/charging-stations.md",
-		"outputAbbreviatedPath": "\/projects\/charging-stations.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/climate-action-plan.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/climate-action-plan.md",
-		"outputAbbreviatedPath": "\/projects\/climate-action-plan.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/projects\/current.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/projects\/current.html",
 		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/food-pantry-map.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/food-pantry-map.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/food-pantry-map.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/food-pantry-map.md",
-		"outputAbbreviatedPath": "\/projects\/food-pantry-map.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/hashtag-project.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/hashtag-project.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/hashtag-project.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/hashtag-project.md",
-		"outputAbbreviatedPath": "\/projects\/hashtag-project.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/index.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/index.md",
-		"outputAbbreviatedPath": "\/projects\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/portal-utilities.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/portal-utilities.md",
-		"outputAbbreviatedPath": "\/projects\/portal-utilities.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/project01.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/project01.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/project01.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/project01.md",
-		"outputAbbreviatedPath": "\/projects\/project01.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/project02.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/project02.md",
-		"outputAbbreviatedPath": "\/projects\/project02.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/project03.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/project03.md",
-		"outputAbbreviatedPath": "\/projects\/project03.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/project04.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/project04.md",
-		"outputAbbreviatedPath": "\/projects\/project04.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/team-wakati.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/team-wakati.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/team-wakati.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/team-wakati.md",
-		"outputAbbreviatedPath": "\/projects\/team-wakati.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/projects\/writeups.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects\/writeups.md",
-		"outputAbbreviatedPath": "\/projects\/writeups.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/README.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/README.md",
-		"outputAbbreviatedPath": "\/README.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -2293,7 +2002,7 @@
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
-	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, *.md",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
