@@ -1,23 +1,22 @@
 ---
 layout: project
 
-name: 'Climate Action Plan'
-cause: 'climate-change'
+name: 'Portal Utilities'
+cause: 'open-data'
 thumbnail: 'tbd'
 banner: 'project banner image does here'
-elevator_pitch: '350 Sacramento (a local community organization) wants to inspire productive and inclusive discussion about climate change. '
-status: 'planning'
-next_milestone: 'establish project charter'
+elevator_pitch: 'insert Jays great pitch hear'
+status: 'building/testing'
+next_milestone: 'plan the launch party'
 categories: 'projects'
 tags: 'tbd'
 gov_partners: 'open'
-community_partners: '350 Sacramento'
-current_needs: ''
+community_partners: 'open'
+current_needs: 'ask jay?'
 github: 'http://www.github.com/code4sac/code4sac.github.io'
 google_group: 'http://groups.google.com'
-c4s_contact: 'Joel Riphagen'
+c4s_contact: 'Jay Venti'
 contact_email: 'hello@codeforsacramento.org'
-specify_him_or_her: 'him'
 last_updated: '9 Apr 2014'
 
 ---
