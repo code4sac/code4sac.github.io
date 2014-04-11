@@ -2,13 +2,13 @@
 layout: project
 
 name: 'Portal Utilities'
-cause: 'open government'
+cause: 'open-data'
 thumbnail: 'tbd'
 banner: 'project banner image does here'
-elevator_pitch: 'insert Jay's great pitch hear'
+elevator_pitch: 'insert Jays great pitch hear'
 status: 'building/testing'
 next_milestone: 'plan the launch party'
-categories: 'tbd'
+categories: 'projects'
 tags: 'tbd'
 gov_partners: 'open'
 community_partners: 'open'
@@ -17,12 +17,8 @@ github: 'http://www.github.com/code4sac/code4sac.github.io'
 google_group: 'http://groups.google.com'
 c4s_contact: 'Jay Venti'
 contact_email: 'hello@codeforsacramento.org'
-specify_him_or_her: 'him'
 last_updated: '9 Apr 2014'
 
-prev_section: 
-next_section: 
-permalink: 
 ---
 
 <!-- Add project description text here! -->

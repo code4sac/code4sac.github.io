@@ -1,15 +1,14 @@
 ---
 layout: project
 
-id: 'p004'
 name: 'Team Wakati'
-cause: 'open data'
+cause: 'open-data'
 thumbnail: '/assets/img/bs_square.svg'
 banner: 'project banner image does here'
 elevator_pitch: 'An app prototype for helping people in need find useful community resources'
 status: 'planning'
 next_milestone: 'tba'
-categories: 'tbd'
+categories: 'projects'
 tags: 'tbd'
 gov_partners: 'open'
 community_partners: 'Community Link Capitol Region, CSU Sacramento'
@@ -18,12 +17,8 @@ github: 'tbd'
 google_group: 'tbd'
 c4s_contact: 'Jesse Rosato'
 contact_email: 'hello@codeforsacramento.org'
-specify_him_or_her: 'him'
 last_updated: '9 Apr 2014'
 
-prev_section: portal-utilities
-next_section: 
-permalink: 
 ---
 
 <!-- Add project description text here! -->

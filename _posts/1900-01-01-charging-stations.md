@@ -1,7 +1,6 @@
 ---
 layout: project
 
-id: 'p005'
 name: 'E-Vehicle Charging Stations'
 cause: 'transportation'
 thumbnail: '/assets/img/bs_square.svg'

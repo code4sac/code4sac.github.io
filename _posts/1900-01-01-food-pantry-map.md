@@ -1,7 +1,6 @@
 ---
 layout: project
 
-id: 'p001'
 name: 'Food Pantry Map'
 cause: 'hunger'
 thumbnail: '/assets/img/bs_square.svg'
@@ -9,7 +8,7 @@ banner: 'project banner image does here'
 elevator_pitch: 'local community organizations coming together to address food insecurity in Sacramento'
 status: 'planning'
 next_milestone: 'meet with stakeholders'
-categories: 'tbd'
+categories: 'projects'
 tags: 'tbd'
 gov_partners: 'open'
 community_partners: 'open'
