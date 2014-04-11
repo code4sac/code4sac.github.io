@@ -1,0 +1,52 @@
+---
+
+layout: default
+title: 'open-data'
+---
+
+<section class="jumbotron">
+	<h2>Open Data</h2>
+	<h3><small> insert desc about open data here!</h3></small>
+</section><!--jumbotron-->
+
+<section class="container-fluid">
+	{% for post in site.posts %}
+		{% if page.title == post.cause %}
+		<div class="col-md-9">
+			<h2>{{ post.name }} <br>
+				<small>{{ post.elevator_pitch }}</small>
+			</h2>
+		<table class="table">
+			<tr>
+				<th>Status:</th>
+				<th>Next milestone:</th>
+				<th>Gov partners:</th>
+				<th>Community partners:</th>
+			</tr>
+			<tr>
+				<td>{{ post.status }}</td>
+				<td>{{ post.next_milestone }}</td>
+				<td>{{ post.gov_partners }}</td>
+				<td>{{ post.community_partners }}</td>
+			</tr>
+		</table>
+		{{ content }}
+		<h3>Current project needs: </h3>
+		<p>{{ post.current_needs }}</p>
+		<h3>Get involved</h3>
+			<p>View the code: {{ page.github }}</p>
+			<p>Read the discussions: {{ page.google_group }}</p>
+			<p>
+				The C4S lead on this project is {{ page.c4s_contact }}. Send an <a href="mailto:{{ project.contact_email }}">email.</a>
+			</p>
+		<h6 style="padding-top: 20px;">
+			This project was last updated on {{ page.last_updated }}
+		</h6>
+        {% include section_nav.html %}
+      </div>
+      {% endif %}
+    {% endfor %}
+</section><!--container-fluid-->
+
+
+
