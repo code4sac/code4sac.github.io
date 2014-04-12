@@ -17,7 +17,6 @@ github: 'http://www.github.com/code4sac/code4sac.github.io'
 google_group: 'http://groups.google.com'
 c4s_contact: 'Joel Riphagen'
 contact_email: 'hello@codeforsacramento.org'
-specify_him_or_her: 'him'
 last_updated: '9 Apr 2014'
 
 ---

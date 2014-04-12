@@ -17,12 +17,8 @@ github: 'tbd'
 google_group: 'tbd'
 c4s_contact: 'Hailey Pate'
 contact_email: 'hello@codeforsacramento.org'
-specify_him_or_her: 'her'
 last_updated: '9 Apr 2014'
 
-prev_section: 
-next_section:
-permalink: 
 ---
 
 <!-- Add project description text here! -->

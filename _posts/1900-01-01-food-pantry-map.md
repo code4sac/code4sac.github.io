@@ -17,12 +17,8 @@ github: 'http://www.github.com/code4sac/code4sac.github.io'
 google_group: 'http://groups.google.com'
 c4s_contact: 'Brandon Pugh'
 contact_email: 'hello@codeforsacramento.org'
-specify_him_or_her: 'him'
 last_updated: '5 Apr 2014'
 
-prev_section: 
-next_section: project02
-permalink: 
 ---
 
 <!-- Add project description text here! -->
