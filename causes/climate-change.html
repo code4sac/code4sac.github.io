@@ -1,0 +1,17 @@
+---
+
+layout: default
+title: 'climate-change'
+---
+
+<section class="jumbotron">
+	<h2>Climate Change</h2>
+	<h3><small> insert desc about climate change here!</h3></small>
+</section><!--jumbotron-->
+
+{% for post in site.posts %}
+	{% if page.title == post.cause %}
+		{% include project.html %}
+	{% endif %}
+{% endfor %}
+</section><!--container-fluid-->
