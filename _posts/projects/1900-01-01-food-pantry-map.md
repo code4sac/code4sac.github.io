@@ -1,14 +1,13 @@
 ---
-layout: project
 
 name: 'Food Pantry Map'
+hashtag: '#food-pantry-map'
 cause: 'hunger'
 thumbnail: '/assets/img/bs_square.svg'
 banner: 'project banner image does here'
 elevator_pitch: 'local community organizations coming together to address food insecurity in Sacramento'
 status: 'planning'
 next_milestone: 'meet with stakeholders'
-categories: 'projects'
 tags: 'tbd'
 gov_partners: 'open'
 community_partners: 'open'
@@ -18,6 +17,8 @@ google_group: 'http://groups.google.com'
 c4s_contact: 'Brandon Pugh'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '5 Apr 2014'
+
+permalink: '/causes/hunger#food-pantry-map'
 
 ---
 

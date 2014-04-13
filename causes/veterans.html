@@ -11,44 +11,7 @@ title: 'veterans'
 
 {% for post in site.posts %}
 	{% if page.title == post.cause %}
-		<section class="container-fluid" style="border-width:1px; border-color:black; border-style:solid;">
-			<h2>{{ post.name }}</h2>
-			<h2><small>{{ post.elevator_pitch }}</small></h2>
-			<img src="/assets/img/gray-box.png"/>
-			<h4>
-				Gov Partners<br>
-				<small>{{ post.gov_partners }}</small>
-			</h4>
-			<h4>
-				Community Partners<br>
-				<small>{{ post.community_partners }}</small>
-			</h4>
-			<h4>
-				Project Contact<br>
-				<a href="mailto:{{ project.contact_email }}"><small>{{ post.c4s_contact }}<small></a>
-			</h4>
-			<div>
-				<h4>Contributors</h4>
-				<img src="/assets/img/gray-circle.png"/>
-				<img src="/assets/img/gray-circle.png"/>
-				<img src="/assets/img/gray-circle.png"/>
-				<img src="/assets/img/gray-circle.png"/>
-			</div>
-			<h4>About</h4>
-			<p>{{ post.content }}</p>
-			<h4>Get involved</h4>
-				<p>View the code: {{ post.github }}</p>
-				<p>Read the discussions: {{ post.google_group }}</p>
-			<div>
-				<h4>Current project needs:</h4>
-				<img src="/assets/img/gray-square.png"/>
-				<img src="/assets/img/gray-square.png"/>
-				<img src="/assets/img/gray-square.png"/>
-			</div>
-			<h6 style="padding-top: 20px;">
-				This project was last updated on {{ post.last_updated }}
-			</h6>
-		</section><!--container-->
+		{% include project.html %}
 	{% endif %}
 {% endfor %}
 </section><!--container-fluid-->

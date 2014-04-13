@@ -5,7 +5,6 @@ email:
 
 baseurl: /
 url:
-permalink: pretty
 timezone: "Pacific Time (US & Canada)"
 encoding: utf-8
 

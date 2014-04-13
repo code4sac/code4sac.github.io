@@ -1,14 +1,13 @@
 ---
-layout: project
 
 name: 'Climate Action Plan'
+hashtag: '#climate-action-plan'
 cause: 'climate-change'
 thumbnail: 'tbd'
 banner: 'project banner image does here'
-elevator_pitch: '350 Sacramento (a local community organization) wants to inspire productive and inclusive discussion about climate change. '
+elevator_pitch: '350 Sacramento (a local community organization) wants to inspire productive and inclusive discussion about climate change.'
 status: 'planning'
 next_milestone: 'establish project charter'
-categories: 'projects'
 tags: 'tbd'
 gov_partners: 'open'
 community_partners: '350 Sacramento'
@@ -18,6 +17,8 @@ google_group: 'http://groups.google.com'
 c4s_contact: 'Joel Riphagen'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
+
+permalink: '/causes/climate-change#climate-action-plan'
 
 ---
 

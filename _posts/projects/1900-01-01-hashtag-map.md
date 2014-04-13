@@ -1,23 +1,24 @@
 ---
-layout: project
 
-name: 'E-Vehicle Charging Stations'
-cause: 'transportation'
+name: 'Hashtag Map'
+hashtag: 'hashtag-map'
+cause: 'digital-community'
 thumbnail: '/assets/img/bs_square.svg'
 banner: 'project banner image does here'
-elevator_pitch: 'an app for finding good locations to install new electric vehicle charging stations'
-status: 'building/testing'
-next_milestone: 'tba'
-categories: 'tbd'
+elevator_pitch: 'exciting pitch goes here!'
+status: 'launched'
+next_milestone: ''
 tags: 'tbd'
-gov_partners: 'Sacramento Area Council of Governments'
-community_partners: 'UC Davis'
-current_needs: 'tbd at stakeholder meeting'
+gov_partners: 'open'
+community_partners: 'MaryJayne Zemer'
+current_needs: ''
 github: 'tbd'
 google_group: 'tbd'
-c4s_contact: 'Hailey Pate'
+c4s_contact: 'open'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
+
+permalink: '/causes/digital-community#hashtag-map'
 
 ---
 

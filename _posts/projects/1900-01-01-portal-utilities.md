@@ -1,14 +1,13 @@
 ---
-layout: project
 
 name: 'Portal Utilities'
+hashtag: '#portal-utilities'
 cause: 'open-data'
 thumbnail: 'tbd'
 banner: 'project banner image does here'
 elevator_pitch: 'insert Jays great pitch hear'
 status: 'building/testing'
 next_milestone: 'plan the launch party'
-categories: 'projects'
 tags: 'tbd'
 gov_partners: 'open'
 community_partners: 'open'
@@ -18,6 +17,8 @@ google_group: 'http://groups.google.com'
 c4s_contact: 'Jay Venti'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
+
+permalink: '/causes/open-data.html#portal-utilities'
 
 ---
 

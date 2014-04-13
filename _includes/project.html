@@ -1,18 +1,6 @@
----
-
-layout: default
-title: 'climate-change'
----
-
-<section class="jumbotron">
-	<h2>Climate Change</h2>
-	<h3><small> insert desc about climate change here!</h3></small>
-</section><!--jumbotron-->
-
-{% for post in site.posts %}
-	{% if page.title == post.cause %}
-		<section class="container-fluid" style="border-width:1px; border-color:black; border-style:solid;">
+<section class="container-fluid" style="border-width:1px; border-color:black; border-style:solid;">
 			<h2>{{ post.name }}</h2>
+			<a href="{{ post.hashtag }}"/>
 			<h2><small>{{ post.elevator_pitch }}</small></h2>
 			<img src="/assets/img/gray-box.png"/>
 			<h4>
@@ -49,6 +37,3 @@ title: 'climate-change'
 				This project was last updated on {{ post.last_updated }}
 			</h6>
 		</section><!--container-->
-	{% endif %}
-{% endfor %}
-</section><!--container-fluid-->

@@ -6,6 +6,7 @@ title: Blog Posts
 <h2>I am the future blog page!</h2>
 
 {% for post in site.posts limit: 5  %}
+  {% if post.category == 'blog' %}
   <article>
     <header>
       <h3>
@@ -27,7 +28,7 @@ title: Blog Posts
           {{post.author}}
         {% else %}
           {{site.author}}
-        {% endif%}
+        {% endif %}
       </p>
     </header>
 
@@ -35,4 +36,5 @@ title: Blog Posts
 <!--         {{ post.excerpt }}  --> 
     </section>
   </article>
+  {% endif %}
 {% endfor %}

@@ -1,5 +1,6 @@
 ---
 layout: posts
+category: 'blog'
 title: Sample Blog Post
 author: Hailey Pate
 ---

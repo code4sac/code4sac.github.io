@@ -1,14 +1,13 @@
 ---
-layout: project
 
 name: 'Team Wakati'
+hashtag: '#team-wakati'
 cause: 'open-data'
 thumbnail: '/assets/img/bs_square.svg'
 banner: 'project banner image does here'
 elevator_pitch: 'An app prototype for helping people in need find useful community resources'
 status: 'planning'
 next_milestone: 'tba'
-categories: 'projects'
 tags: 'tbd'
 gov_partners: 'open'
 community_partners: 'Community Link Capitol Region, CSU Sacramento'
@@ -18,6 +17,8 @@ google_group: 'tbd'
 c4s_contact: 'Jesse Rosato'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
+
+permalink: '/causes/open-data.html#team-wakati'
 
 ---
 

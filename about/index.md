@@ -29,7 +29,7 @@ layout: default
 		<h4>
 			Hacker Lab<br>
 			<small>
-				Hacker Lab -- our community tech space here in Sacramento -- is the bedrock of Code4Sac. In fact, it is by way of Hacker Lab's calendar and outreach that most people find Code4Sac. Our weekly hack nights and special events are all held at the Lab. Woot!
+				Hacker Lab -- our community tech space here in Sacramento -- is the bedrock of Code4Sac. In fact, it is by way of Hacker Lab's calendar and outreach that most people find us. Our weekly hack nights and special events are all held at the Lab. Woot!
 			</small>
 		</h4>
 		<h4>
