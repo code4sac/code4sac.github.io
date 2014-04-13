@@ -18,7 +18,7 @@ c4s_contact: 'open'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
 
-permalink: '/causes/digital-community#hashtag-map'
+permalink: '/causes/digital-community##hashtag-map'
 
 ---
 

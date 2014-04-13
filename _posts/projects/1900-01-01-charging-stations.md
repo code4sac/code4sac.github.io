@@ -18,7 +18,7 @@ c4s_contact: 'Hailey Pate'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
 
-permalink: '/causes/transportation.html#e-vehicle-stations'
+permalink: '/causes/transportation.html##e-vehicle-stations'
 
 ---
 

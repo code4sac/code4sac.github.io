@@ -18,7 +18,7 @@ c4s_contact: 'Jay Venti'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
 
-permalink: '/causes/open-data.html#portal-utilities'
+permalink: '/causes/open-data.html##portal-utilities'
 
 ---
 

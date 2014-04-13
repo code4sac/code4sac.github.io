@@ -18,7 +18,7 @@ c4s_contact: 'Joel Riphagen'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
 
-permalink: '/causes/climate-change#climate-action-plan'
+permalink: '/causes/climate-change##climate-action-plan'
 
 ---
 

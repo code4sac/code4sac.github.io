@@ -18,7 +18,7 @@ c4s_contact: 'Jesse Rosato'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '9 Apr 2014'
 
-permalink: '/causes/open-data.html#team-wakati'
+permalink: '/causes/open-data.html##team-wakati'
 
 ---
 

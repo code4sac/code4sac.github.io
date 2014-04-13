@@ -18,7 +18,7 @@ c4s_contact: 'Brandon Pugh'
 contact_email: 'hello@codeforsacramento.org'
 last_updated: '5 Apr 2014'
 
-permalink: '/causes/hunger#food-pantry-map'
+permalink: '/causes/hunger##food-pantry-map'
 
 ---
 
