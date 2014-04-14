@@ -1,0 +1,12 @@
+<section class="container-fluid">
+	<div class="row">
+		<section class="col-md-8">
+		{% for section in site.data.faq %}
+			<h4>
+				{{ section.question }}<br>
+				<small>{{ section.answer}}</small>
+			</h4>
+		{% endfor %}
+		</section><!--col-->
+	</div><!--row-->
+</section><!--container-->
