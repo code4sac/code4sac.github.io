@@ -3,10 +3,16 @@ layout: default
 title: Calendar
 ---
 
-<!-- Yep, that's right... here's some friendly peer pressure! If you can't stand the appearance of this 1990s-ish google calendar embed... please help! Our main requirement - the events come from a google apps feed. that's the easiest way for core team members to keep the calendar up to date. Thanks in advance;-) h -->
-<div class="center-block">
-	<div>
-	<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hello%40codeforsacramento.org&amp;color=%235229A3&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<section class="container-fluid">
+	<h2>Event Calendar</h2>
+	<div class="row-fluid" id="calendar">
+		<section class="hidden-xs">
+			<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hello%40codeforsacramento.org&amp;color=%235229A3&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+		</section><!--hidden-xs-->
+		<section class="clearfix visible-xs">
+			<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hello%40codeforsacramento.org&amp;color=%235229A3&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="400" height="600" frameborder="0" scrolling="no"></iframe>
+		</section><!--visible-xs-->
 	</div>
-</div>
+</section>
 
