@@ -1,9 +1,32 @@
+#landing {
+  padding-top: 50px;
+  text-align: center;
+}
+#landing-caption {
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  padding-top: 50px;
+}
+#landing-sub-caption {
+  font-family: 'Merriweather', serif;
+  padding-bottom: 20px;
+}
 #main-nav {
-  padding-top: 20px;
+  border-bottom: 1px;
+}
+#header-row {
+  border-bottom-width: 1px;
+  border-bottom-color: #00b3e3;
+  border-bottom-style: solid;
 }
 footer {
-  background: #111820;
-  color: #ffffff;
+  border-top-width: 1px;
+  border-top-color: #00b3e3;
+  border-top-style: solid;
+}
+footer #thin-footer {
+  text-align: center;
+  padding-top: 5px;
 }
 .list-group-item {
   background: #111820;
@@ -11,4 +34,15 @@ footer {
 }
 .badge {
   background: #0071ce;
+}
+#feature {
+  background-image: url('/assets/img/bg1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center-top;
+}
+#brigade-logo-header {
+  width: 30%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }

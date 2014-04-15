@@ -14,14 +14,44 @@
 @dropdown-bg:                    rgba(232,232,232,.15);
 
 @font-family-sans-serif:  'Open Sans', Helvetica, Arial, sans-serif;
+@font-family-test: 'Neuton', serif;
+@font-family-landing: 'Merriweather', serif;
 
-#main-nav {
-	padding-top: 20px;
+#landing {
+	padding-top: 50px;
+	text-align: center;
 }
 
+#landing-caption {
+	font-family: @font-family-landing;
+	font-style: italic;
+	padding-top: 50px;
+}
+
+#landing-sub-caption {
+	font-family: @font-family-landing;
+	padding-bottom: 20px;
+}
+
+#main-nav {
+	border-bottom: 1px;
+
+}
+
+#header-row {
+	border-bottom-width: 1px;
+	border-bottom-color: @c4s-blue-lighter;
+	border-bottom-style: solid;
+}
 footer {
-	background: @c4s-black;
-	color: @white;
+	border-top-width: 1px;
+	border-top-color: @c4s-blue-lighter;
+	border-top-style: solid;
+
+#thin-footer {
+	text-align: center;
+	padding-top: 5px;
+}
 }
 
 .list-group-item {
@@ -31,4 +61,17 @@ footer {
 
 .badge {
 	background: @c4s-blue-darker;
+}
+
+#feature {
+	background-image: url('/assets/img/bg1.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center-top;
+}
+
+#brigade-logo-header {
+	width:30%;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
