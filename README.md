@@ -5,8 +5,11 @@ This site needs content, styling, and more! More details on how to help are comi
 
 For a list of things we need help on, please check out the [issues page](https://github.com/code4sac/code4sac.github.io/issues?state=open).
 
+### Need to update a project's information? 
+Check the [wiki](https://github.com/code4sac/code4sac.github.io/wiki) for how to do it... no coding required!
 
-#For Developers:
+
+# For Developers:
 
 ### Running Locally
 
